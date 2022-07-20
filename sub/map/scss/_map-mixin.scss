@@ -1,9 +1,0 @@
-
-@mixin item-bg ($img-name){
-
-    background: url(../images/#{$img-name}.jpg) no-repeat center /cover;
-    overflow: hidden;
-}
-
-
-
